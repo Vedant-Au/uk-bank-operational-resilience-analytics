@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+02_data/raw/*
+02_data/external/*
+02_data/simulated_internal/*
+02_data/processed/*
+!02_data/**/.gitkeep
+*.twbx
+*.sqlite
+*.db
+*.log
+.DS_Store
+~$*.xlsx

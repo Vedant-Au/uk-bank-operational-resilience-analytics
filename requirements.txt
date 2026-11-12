@@ -1,0 +1,3 @@
+# Simulation, modelling and dashboard data use the standard library only.
+openpyxl==3.1.5        # Excel dashboard
+psycopg[binary]==3.3.6 # optional: loading into PostgreSQL

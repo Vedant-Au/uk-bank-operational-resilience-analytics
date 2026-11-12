@@ -1,0 +1,9 @@
+source_kind,service_id,service_name,criticality,impact_tolerance_minutes,supplier_id,supplier_name,supplier_type,substitutability
+simulated_internal,S01,Everyday payments,high,120,P01,Provider Alpha,cloud platform,low
+simulated_internal,S01,Everyday payments,high,120,P02,Provider Beta,payment processing,low
+simulated_internal,S02,Mobile account access,high,180,P01,Provider Alpha,cloud platform,low
+simulated_internal,S02,Mobile account access,high,180,P03,Provider Gamma,identity platform,medium
+simulated_internal,S03,Card authorisation,high,90,P02,Provider Beta,payment processing,low
+simulated_internal,S03,Card authorisation,high,90,P04,Provider Delta,card network,medium
+simulated_internal,S04,Mortgage servicing,medium,480,P03,Provider Gamma,identity platform,medium
+simulated_internal,S04,Mortgage servicing,medium,480,P05,Provider Epsilon,document service,high

@@ -1,0 +1,41 @@
+source_kind,supplier_id,supplier_name,outage_minutes,services_beyond_tolerance,services_hit,illustrative_customers_beyond_tolerance
+simulated_internal,P01,Provider Alpha,30,0,,0
+simulated_internal,P01,Provider Alpha,60,0,,0
+simulated_internal,P01,Provider Alpha,90,0,,0
+simulated_internal,P01,Provider Alpha,120,0,,0
+simulated_internal,P01,Provider Alpha,180,1,Everyday payments,42000
+simulated_internal,P01,Provider Alpha,240,2,Everyday payments; Mobile account access,110000
+simulated_internal,P01,Provider Alpha,360,2,Everyday payments; Mobile account access,110000
+simulated_internal,P01,Provider Alpha,480,2,Everyday payments; Mobile account access,110000
+simulated_internal,P02,Provider Beta,30,0,,0
+simulated_internal,P02,Provider Beta,60,0,,0
+simulated_internal,P02,Provider Beta,90,0,,0
+simulated_internal,P02,Provider Beta,120,1,Card authorisation,55000
+simulated_internal,P02,Provider Beta,180,2,Everyday payments; Card authorisation,97000
+simulated_internal,P02,Provider Beta,240,2,Everyday payments; Card authorisation,97000
+simulated_internal,P02,Provider Beta,360,2,Everyday payments; Card authorisation,97000
+simulated_internal,P02,Provider Beta,480,2,Everyday payments; Card authorisation,97000
+simulated_internal,P03,Provider Gamma,30,0,,0
+simulated_internal,P03,Provider Gamma,60,0,,0
+simulated_internal,P03,Provider Gamma,90,0,,0
+simulated_internal,P03,Provider Gamma,120,0,,0
+simulated_internal,P03,Provider Gamma,180,0,,0
+simulated_internal,P03,Provider Gamma,240,1,Mobile account access,68000
+simulated_internal,P03,Provider Gamma,360,1,Mobile account access,68000
+simulated_internal,P03,Provider Gamma,480,1,Mobile account access,68000
+simulated_internal,P04,Provider Delta,30,0,,0
+simulated_internal,P04,Provider Delta,60,0,,0
+simulated_internal,P04,Provider Delta,90,0,,0
+simulated_internal,P04,Provider Delta,120,1,Card authorisation,55000
+simulated_internal,P04,Provider Delta,180,1,Card authorisation,55000
+simulated_internal,P04,Provider Delta,240,1,Card authorisation,55000
+simulated_internal,P04,Provider Delta,360,1,Card authorisation,55000
+simulated_internal,P04,Provider Delta,480,1,Card authorisation,55000
+simulated_internal,P05,Provider Epsilon,30,0,,0
+simulated_internal,P05,Provider Epsilon,60,0,,0
+simulated_internal,P05,Provider Epsilon,90,0,,0
+simulated_internal,P05,Provider Epsilon,120,0,,0
+simulated_internal,P05,Provider Epsilon,180,0,,0
+simulated_internal,P05,Provider Epsilon,240,0,,0
+simulated_internal,P05,Provider Epsilon,360,0,,0
+simulated_internal,P05,Provider Epsilon,480,0,,0

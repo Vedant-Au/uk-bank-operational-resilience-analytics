@@ -1,0 +1,6 @@
+source_kind,supplier_id,supplier_name,supplier_type,substitutability,services_supported,service_names,high_criticality_services,minutes_to_first_breach,minutes_to_breach_all,illustrative_customer_base,default_seed_shared_events,seed_median_shared_events
+simulated_internal,P01,Provider Alpha,cloud platform,low,2,Everyday payments; Mobile account access,2,120,180,110000,1,1.0
+simulated_internal,P02,Provider Beta,payment processing,low,2,Everyday payments; Card authorisation,2,90,120,97000,0,1.0
+simulated_internal,P03,Provider Gamma,identity platform,medium,2,Mobile account access; Mortgage servicing,1,180,480,77000,1,1.0
+simulated_internal,P04,Provider Delta,card network,medium,1,Card authorisation,1,90,90,55000,0,0.0
+simulated_internal,P05,Provider Epsilon,document service,high,1,Mortgage servicing,0,480,480,9000,0,0.0

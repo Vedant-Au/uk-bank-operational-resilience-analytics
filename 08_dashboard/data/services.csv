@@ -1,0 +1,5 @@
+source_kind,service_id,service_name,criticality,impact_tolerance_minutes,incident_count,tolerance_breach_count,median_duration_minutes,customers_affected_sum,incident_loss_gbp_sum
+simulated_internal,S01,Everyday payments,high,120,13,6,92.0,79829,72745.81
+simulated_internal,S02,Mobile account access,high,180,11,3,104.0,96008,50024.3
+simulated_internal,S03,Card authorisation,high,90,13,8,107.0,116989,54315.61
+simulated_internal,S04,Mortgage servicing,medium,480,5,0,62.0,4641,12844.83

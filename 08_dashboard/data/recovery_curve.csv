@@ -1,0 +1,41 @@
+source_kind,service_id,service_name,recovery_cut_pct,default_seed_breaches,seed_median_breaches
+simulated_internal,S01,Everyday payments,0,6,4.0
+simulated_internal,S01,Everyday payments,10,4,4.0
+simulated_internal,S01,Everyday payments,20,4,3.0
+simulated_internal,S01,Everyday payments,30,3,2.0
+simulated_internal,S01,Everyday payments,40,3,2.0
+simulated_internal,S01,Everyday payments,50,3,1.0
+simulated_internal,S01,Everyday payments,60,0,0.0
+simulated_internal,S01,Everyday payments,70,0,0.0
+simulated_internal,S01,Everyday payments,80,0,0.0
+simulated_internal,S01,Everyday payments,90,0,0.0
+simulated_internal,S02,Mobile account access,0,3,2.0
+simulated_internal,S02,Mobile account access,10,2,1.0
+simulated_internal,S02,Mobile account access,20,1,1.0
+simulated_internal,S02,Mobile account access,30,0,1.0
+simulated_internal,S02,Mobile account access,40,0,0.0
+simulated_internal,S02,Mobile account access,50,0,0.0
+simulated_internal,S02,Mobile account access,60,0,0.0
+simulated_internal,S02,Mobile account access,70,0,0.0
+simulated_internal,S02,Mobile account access,80,0,0.0
+simulated_internal,S02,Mobile account access,90,0,0.0
+simulated_internal,S03,Card authorisation,0,8,5.0
+simulated_internal,S03,Card authorisation,10,7,4.0
+simulated_internal,S03,Card authorisation,20,6,4.0
+simulated_internal,S03,Card authorisation,30,5,3.0
+simulated_internal,S03,Card authorisation,40,4,2.0
+simulated_internal,S03,Card authorisation,50,2,1.0
+simulated_internal,S03,Card authorisation,60,1,1.0
+simulated_internal,S03,Card authorisation,70,0,0.0
+simulated_internal,S03,Card authorisation,80,0,0.0
+simulated_internal,S03,Card authorisation,90,0,0.0
+simulated_internal,S04,Mortgage servicing,0,0,0.0
+simulated_internal,S04,Mortgage servicing,10,0,0.0
+simulated_internal,S04,Mortgage servicing,20,0,0.0
+simulated_internal,S04,Mortgage servicing,30,0,0.0
+simulated_internal,S04,Mortgage servicing,40,0,0.0
+simulated_internal,S04,Mortgage servicing,50,0,0.0
+simulated_internal,S04,Mortgage servicing,60,0,0.0
+simulated_internal,S04,Mortgage servicing,70,0,0.0
+simulated_internal,S04,Mortgage servicing,80,0,0.0
+simulated_internal,S04,Mortgage servicing,90,0,0.0

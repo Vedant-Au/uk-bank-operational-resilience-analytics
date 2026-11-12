@@ -1,0 +1,43 @@
+source_kind,incident_id,shared_event_id,service_id,service_name,supplier_name,incident_type,start_month,duration_minutes,impact_tolerance_minutes,beyond_tolerance,minutes_beyond_tolerance,customers_affected,loss_gbp
+simulated_internal,I0001,,S01,Everyday payments,,local_service_scenario,2024-09-01,296,120,1,176,5914,11098.66
+simulated_internal,I0002,,S03,Card authorisation,,local_service_scenario,2024-10-01,92,90,1,2,9963,3455.73
+simulated_internal,I0003,,S03,Card authorisation,,local_service_scenario,2024-11-01,174,90,1,84,13384,8716.73
+simulated_internal,I0004,,S03,Card authorisation,,local_service_scenario,2024-11-01,161,90,1,71,13517,8029.63
+simulated_internal,I0005,,S02,Mobile account access,,local_service_scenario,2024-12-01,87,180,0,0,8927,5432.9
+simulated_internal,I0006,,S02,Mobile account access,,local_service_scenario,2025-01-01,198,180,1,18,4451,8844.33
+simulated_internal,I0007,,S02,Mobile account access,,local_service_scenario,2025-01-01,140,180,0,0,16300,2246.12
+simulated_internal,I0008,,S02,Mobile account access,,local_service_scenario,2025-02-01,252,180,1,72,10390,4369.94
+simulated_internal,I0009,,S03,Card authorisation,,local_service_scenario,2025-03-01,56,90,0,0,9535,1154.96
+simulated_internal,I0010,,S01,Everyday payments,,local_service_scenario,2025-03-01,92,120,0,0,7268,5198.1
+simulated_internal,I0011,,S04,Mortgage servicing,,local_service_scenario,2025-05-01,61,480,0,0,238,772.14
+simulated_internal,I0012,,S01,Everyday payments,,local_service_scenario,2025-05-01,283,120,1,163,5854,16398.54
+simulated_internal,I0013,,S04,Mortgage servicing,,local_service_scenario,2025-05-01,111,480,0,0,1494,3319.64
+simulated_internal,I0014,,S04,Mortgage servicing,,local_service_scenario,2025-06-01,62,480,0,0,1290,2799.37
+simulated_internal,I0015,,S01,Everyday payments,,local_service_scenario,2025-06-01,61,120,0,0,8598,1602.14
+simulated_internal,I0016,,S01,Everyday payments,,local_service_scenario,2025-06-01,76,120,0,0,1182,4633.22
+simulated_internal,I0017,,S03,Card authorisation,,local_service_scenario,2025-07-01,84,90,0,0,10292,1036.17
+simulated_internal,I0018,,S03,Card authorisation,,local_service_scenario,2025-08-01,130,90,1,40,11896,6973.32
+simulated_internal,I0019,,S01,Everyday payments,,local_service_scenario,2025-10-01,124,120,1,4,6172,4719.63
+simulated_internal,I0020,,S03,Card authorisation,,local_service_scenario,2025-10-01,282,90,1,192,6528,11450.19
+simulated_internal,I0021,,S01,Everyday payments,,local_service_scenario,2025-10-01,18,120,0,0,3004,803.25
+simulated_internal,I0022,,S03,Card authorisation,,local_service_scenario,2025-11-01,69,90,0,0,5928,1667.33
+simulated_internal,I0023,,S02,Mobile account access,,local_service_scenario,2025-11-01,104,180,0,0,3822,3383.34
+simulated_internal,I0024,,S03,Card authorisation,,local_service_scenario,2025-11-01,55,90,0,0,13737,1538.87
+simulated_internal,I0025,,S03,Card authorisation,,local_service_scenario,2025-12-01,122,90,1,32,1767,2246.82
+simulated_internal,I0026,,S03,Card authorisation,,local_service_scenario,2026-01-01,198,90,1,108,9351,2649.49
+simulated_internal,I0027,,S03,Card authorisation,,local_service_scenario,2026-02-01,52,90,0,0,2331,658.72
+simulated_internal,I0028,E202602-P01,S01,Everyday payments,Provider Alpha,shared_supplier_scenario,2026-02-01,32,120,0,0,7735,902.36
+simulated_internal,I0029,E202602-P01,S02,Mobile account access,Provider Alpha,shared_supplier_scenario,2026-02-01,92,180,0,0,11655,2644.33
+simulated_internal,I0030,,S02,Mobile account access,,local_service_scenario,2026-03-01,28,180,0,0,3227,1065.58
+simulated_internal,I0031,,S02,Mobile account access,,local_service_scenario,2026-03-01,73,180,0,0,15800,2911.02
+simulated_internal,I0032,,S01,Everyday payments,,local_service_scenario,2026-03-01,298,120,1,178,6600,18921.36
+simulated_internal,I0033,E202603-P03,S02,Mobile account access,Provider Gamma,shared_supplier_scenario,2026-03-01,85,180,0,0,6433,4504.12
+simulated_internal,I0034,E202603-P03,S04,Mortgage servicing,Provider Gamma,shared_supplier_scenario,2026-03-01,17,480,0,0,459,1090.52
+simulated_internal,I0035,,S01,Everyday payments,,local_service_scenario,2026-04-01,49,120,0,0,7042,883.44
+simulated_internal,I0036,,S01,Everyday payments,,local_service_scenario,2026-04-01,161,120,1,41,9545,1433.05
+simulated_internal,I0037,,S04,Mortgage servicing,,local_service_scenario,2026-04-01,113,480,0,0,1160,4863.16
+simulated_internal,I0038,,S03,Card authorisation,,local_service_scenario,2026-06-01,107,90,1,17,8760,4737.65
+simulated_internal,I0039,,S01,Everyday payments,,local_service_scenario,2026-06-01,132,120,1,12,6879,4753.84
+simulated_internal,I0040,,S01,Everyday payments,,local_service_scenario,2026-06-01,34,120,0,0,4036,1398.22
+simulated_internal,I0041,,S02,Mobile account access,,local_service_scenario,2026-07-01,140,180,0,0,2869,1178.02
+simulated_internal,I0042,,S02,Mobile account access,,local_service_scenario,2026-08-01,207,180,1,27,12134,13444.6
